@@ -24,6 +24,8 @@
 
   To build a comprehensive, beginner-friendly, and technically deep resource for learning offensive security—from basic exploitation to advanced red teaming operations.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📌 Perfect For:
   Students preparing for OSCP, CEH, PNPT, etc.
   
